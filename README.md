@@ -42,7 +42,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Paul-André Melliès, Noam Zeilberger
 
 * **Safe and Efficient Gradual Typing for TypeScript**  
-  ([paper](http://www.cs.umd.edu/~aseem/safets-tr.pdf))  
+  ([tech report](http://www.cs.umd.edu/~aseem/safets-tr.pdf))  
   by Aseem Rastogi, Nikhil Swamy, Cedric Fournet, Gavin Bierman and Panagiotis Vekris
 
 * **Sound Modular Verification of C Code Executing in an Unverified Context**  
@@ -56,6 +56,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Vilhelm Sjöberg and Stephanie Weirich
 
 * **Deep Specifications and Certified Abstraction Layers**  
+  ([paper](http://scw.tw/works/pub/POPL.pdf))  
   by Ronghui Gu, Jeremie Koenig, Tahina Ramananandro, Zhong Shao, Newman Wu, Shu-chun Weng, Haozhong Zhang and Yu Guo
 
 * **A Meta Lambda Calculus with Cross-Level Computation**  
