@@ -116,6 +116,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Filippo Bonchi, Pawel Sobocinski, Fabio Zanasi and Fabio Zanasi
 
 * **Dependent Information Flow Types**  
+  ([tech report](http://ctp.di.fct.unl.pt/~luisal/resources/TR-DIFT.pdf))  
   by Luísa Lourenço and Luís Caires
 
 * **Common compiler optimisations are invalid in the C11 memory model and what we can do about it**  
