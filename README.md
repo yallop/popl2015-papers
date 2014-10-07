@@ -106,6 +106,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Oded Padon, Neil Immerman, Aleksandr Karbyshev, Ori Lahav, Mooly Sagiv and Sharon Shoham
 
 * **Polymorphic Functions with Set-Theoretic Types. Part 2: Local Type Inference and Type Reconstruction**  
+  ([paper](http://www.pps.univ-paris-diderot.fr/~gc/papers/polydeuces-part2.pdf))  
   by Giuseppe Castagna, Kim Nguyen, Zhiwu Xu and Pietro Abate
 
 * **Principal Type Schemes for Gradual Programs**  
@@ -118,7 +119,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Luísa Lourenço and Luís Caires
 
 * **Common compiler optimisations are invalid in the C11 memory model and what we can do about it**  
-  ([paper](http://www.di.ens.fr/~zappa/readings/c11comp.pdf)  
+  ([paper](http://www.di.ens.fr/~zappa/readings/c11comp.pdf))  
   by Viktor Vafeiadis, Thibaut Balabonski, Soham Chakraborty, Robin Morisset and Francesco Zappa Nardelli
 
 * **Manifest Contracts for Datatypes**  
