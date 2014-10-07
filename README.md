@@ -118,6 +118,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Luísa Lourenço and Luís Caires
 
 * **Common compiler optimisations are invalid in the C11 memory model and what we can do about it**  
+  ([paper](http://www.di.ens.fr/~zappa/readings/c11comp.pdf)  
   by Viktor Vafeiadis, Thibaut Balabonski, Soham Chakraborty, Robin Morisset and Francesco Zappa Nardelli
 
 * **Manifest Contracts for Datatypes**  
