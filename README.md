@@ -106,10 +106,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Oded Padon, Neil Immerman, Aleksandr Karbyshev, Ori Lahav, Mooly Sagiv and Sharon Shoham
 
 * **Polymorphic Functions with Set-Theoretic Types. Part 2: Local Type Inference and Type Reconstruction**  
-  by Giuseppe Castagna and Kim Nguyen
-
-* **Zhiwu Xu**  
-  by Pietro Abate
+  by Giuseppe Castagna, Kim Nguyen, Zhiwu Xu and Pietro Abate
 
 * **Principal Type Schemes for Gradual Programs**  
   by Ronald Garcia and Matteo Cimini
