@@ -160,6 +160,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Benjamin Delaware, Clément Pit-Claudel, Jason Gross and Adam Chlipala
 
 * **Symbolic Algorithms for Language Equivalence and Kleene Algebra with Tests**  
+  ([arxiv](http://arxiv.org/abs/1407.3213))  
   by Damien Pous
 
 * **Succinct Representation of Concurrent Trace Sets**  
