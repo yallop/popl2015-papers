@@ -99,6 +99,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Matt Brown and Jens Palsberg
 
 * **Conjugate Hylomorphisms: The Mother of All Structured Recursion Schemes**  
+  ([draft paper](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/conjugate-hylos.pdf))  
   by Ralf Hinze, Nicolas Wu and Jeremy Gibbons
 
 * **Decentralizing SDN Policies**  
