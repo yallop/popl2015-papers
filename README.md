@@ -42,6 +42,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Paul-André Melliès, Noam Zeilberger
 
 * **Safe and Efficient Gradual Typing for TypeScript**  
+  ([paper](http://www.cs.umd.edu/~aseem/safets-tr.pdf))  
   by Aseem Rastogi, Nikhil Swamy, Cedric Fournet, Gavin Bierman and Panagiotis Vekris
 
 * **Sound Modular Verification of C Code Executing in an Unverified Context**  
