@@ -145,6 +145,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Ahmed Bouajjani, Michael Emmi, Constantin Enea and Jad Hamza
 
 * **From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification**  
+  ([site](http://adam.chlipala.net/papers/BedrockPOPL15/))  
   by Adam Chlipala
 
 * **Ur/Web: A Simple Model for Programming the Web**  
