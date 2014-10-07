@@ -136,6 +136,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Sam Staton
 
 * **Higher-Order Approximate Relational Refinement Types for Mechanism Design and Differential Privacy**  
+  ([arxiv](http://arxiv.org/abs/1407.6845))  
   by Gilles Barthe, Marco Gaboardi, Emilio Gallego Arias, Justin Hsu, Aaron Roth and Pierre-Yves Strub
 
 * **Probabilistic Termination**  
