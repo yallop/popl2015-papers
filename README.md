@@ -158,6 +158,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Hamid Ebadi, David Sands and Gerardo Schneider
 
 * **Fiat: Deductive Synthesis of Abstract Data Types in a Proof Assistant**  
+  ([draft paper](http://people.csail.mit.edu/bendy/Fiat/Fiat.pdf))  
   by Benjamin Delaware, Clément Pit-Claudel, Jason Gross and Adam Chlipala
 
 * **Symbolic Algorithms for Language Equivalence and Kleene Algebra with Tests**  
