@@ -77,7 +77,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Ralf Jung, David Swasey, Filip Sieczkowski, Kasper Svendsen, Aaron Turon, Lars Birkedal and Derek Dreyer
 
 * **DReX: A Declarative Language for Efficiently Computable Regular String Transformations**  
-  ([draft paper](http://www.seas.upenn.edu/~rmukund/drex/drex-short.pdf))
+  ([draft paper](http://www.seas.upenn.edu/~rmukund/drex/drex-short.pdf))          
   by Rajeev Alur, Loris D'Antoni and Mukund Raghothaman
 
 * **A Complete Semantics of Java with Applications**  
