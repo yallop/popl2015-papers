@@ -36,7 +36,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Krishnendu Chatterjee, Andreas Pavlogiannis and Yaron Velner
 
 * **Integrating Linear and Dependent Types**  
-  ([paper](https://www.mpi-sws.org/F~neelk/dlnl-paper.pdf))  
+  ([paper](https://www.mpi-sws.org/~neelk/dlnl-paper.pdf))  
   by Neel Krishnaswami, Pierre Pradic and Nick Benton
 
 * **Functors are type refinement systems**  
