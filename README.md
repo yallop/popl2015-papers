@@ -19,6 +19,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Mike Dodds, Andreas Haas and Christoph M. Kirsch
 
 * **From Communicating Machines to Graphical Choreographies**  
+  ([preprint](http://www.doc.ic.ac.uk/~jlange/papers/lty15_preprint.pdf))  
   by Julien Lange, Emilio Tuosto and Nobuko Yoshida
 
 * **Equations, contractions, and unique solutions**  
