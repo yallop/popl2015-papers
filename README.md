@@ -15,7 +15,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
 ## POPL 2015
 
 * **A Scalable, Correct Time-Stamped Stack**  
-  ([paper](http://www-users.cs.york.ac.uk/~miked/publications/scalable_correct_TS_stack.pdf))  
+  ([paper](http://www-users.cs.york.ac.uk/~miked/publications/POPL.15.ts_stack.pdf))  
   by Mike Dodds, Andreas Haas and Christoph M. Kirsch
 
 * **From Communicating Machines to Graphical Choreographies**  
