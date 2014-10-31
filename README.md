@@ -26,7 +26,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Davide Sangiorgi
 
 * **Formal verification of a C static analyzer**  
-  ([draft paper](http://pauillac.inria.fr/~xleroy/publi/Verasco-architecture.pdf))  
+  ([paper](http://gallium.inria.fr/~xleroy/publi/verasco-popl2015.pdf))  
   by Jacques-Henri Jourdan, Vincent Laporte, Sandrine Blazy, Xavier Leroy and David Pichardie
 
 * **Space-Efficient Manifest Contracts**  
