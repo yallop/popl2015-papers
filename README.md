@@ -52,6 +52,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Pieter Agten, Bart Jacobs, Frank Piessens and Frank Piessens
 
 * **Program Boosting: Program Synthesis via Crowd-Sourcing**  
+  ([paper](http://www.cis.upenn.edu/~lorisdan/papers/popl15crowd.pdf))  
   by Robert A Cochran, Loris D'Antoni, Benjamin Livshits, David Molnar and Margus Veanes
 
 * **Programming up to Congruence**  
