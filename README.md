@@ -60,7 +60,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Vilhelm Sjöberg and Stephanie Weirich
 
 * **Deep Specifications and Certified Abstraction Layers**  
-  ([paper](http://scw.tw/works/pub/POPL.pdf))  
+  (no preprint found)  
   by Ronghui Gu, Jeremie Koenig, Tahina Ramananandro, Zhong Shao, Newman Wu, Shu-chun Weng, Haozhong Zhang and Yu Guo
 
 * **A Meta Lambda Calculus with Cross-Level Computation**  
