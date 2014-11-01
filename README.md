@@ -179,6 +179,7 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Venmugil Elango, Fabrice Rastello, Louis-Noel Pouchet, J. Ramanujam and P. Sadayappan
 
 * **A Coalgebraic Decision Procedure for NetKAT**  
+  ([research report (13 pages)](http://ecommons.library.cornell.edu/handle/1813/36255))  
   by Nate Foster, Dexter Kozen, Matthew Milano, Alexandra Silva and Laure Thompson
 
 * **Proof Spaces for Unbounded Parallelism**  
@@ -188,4 +189,5 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Michael D. Adams
 
 * **Data Parallel String Manipulating Programs**  
+  ([paper](http://research.microsoft.com/en-us/um/people/livshits/papers/pdf/popl15b.pdf))  
   by Margus Veanes, Todd Mytkowicz, David Molnar and Ben Livshits
