@@ -170,12 +170,15 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Damien Pous
 
 * **Succinct Representation of Concurrent Trace Sets**  
+  (no preprint found)  
   by Ashutosh Gupta, Thomas A. Henzinger, Arjun Radhakrishna, Roopsha Samanta and Thorsten Tarrach
 
 * **Predicting Program Properties from Big Code**  
+  (no preprint found)  
   by Veselin Raychev, Martin Vechev and Andreas Krause
 
 * **On Characterizing the Data Access Complexity of Programs**  
+  (no preprint found)  
   by Venmugil Elango, Fabrice Rastello, Louis-Noel Pouchet, J. Ramanujam and P. Sadayappan
 
 * **A Coalgebraic Decision Procedure for NetKAT**  
@@ -183,9 +186,11 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Nate Foster, Dexter Kozen, Matthew Milano, Alexandra Silva and Laure Thompson
 
 * **Proof Spaces for Unbounded Parallelism**  
+  (no preprint found)  
   by Azadeh Farzan, Zachary Kincaid and Andreas Podelski
 
 * **The Essence of Hygiene**  
+  (no preprint found)  
   by Michael D. Adams
 
 * **Data Parallel String Manipulating Programs**  
