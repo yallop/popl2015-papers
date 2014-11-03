@@ -51,7 +51,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Aseem Rastogi, Nikhil Swamy, Cedric Fournet, Gavin Bierman and Panagiotis Vekris
 
 * **Sound Modular Verification of C Code Executing in an Unverified Context**  
-  by Pieter Agten, Bart Jacobs, Frank Piessens and Frank Piessens
+  by Pieter Agten, Bart Jacobs and Frank Piessens
 
 * **Program Boosting: Program Synthesis via Crowd-Sourcing**  
   ([paper](http://www.cis.upenn.edu/~lorisdan/papers/popl15crowd.pdf))  
@@ -120,7 +120,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Ronald Garcia and Matteo Cimini
 
 * **Full Abstraction for Signal Flow Graphs**  
-  by Filippo Bonchi, Pawel Sobocinski, Fabio Zanasi and Fabio Zanasi
+  by Filippo Bonchi, Pawel Sobocinski and Fabio Zanasi
 
 * **Dependent Information Flow Types**  
   ([tech report](http://ctp.di.fct.unl.pt/~luisal/resources/TR-DIFT.pdf))  
