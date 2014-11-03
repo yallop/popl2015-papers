@@ -3,10 +3,11 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
 [popl2015]: http://popl.mpi-sws.org/2015/
 [popl2015-accepted]: http://popl.mpi-sws.org/2015/accepted.html
 
-(Similar pages are available for [POPL 2014][popl2014], ICFP ([2012][icfp12], [2013][icfp13], [2014][icfp14]) and [PLDI 2014][pldi2014-accepted].)
+(Similar pages are available for [POPL 2014][popl2014] and [2013][popl2013], ICFP ([2012][icfp12], [2013][icfp13], [2014][icfp14]) and [PLDI 2014][pldi2014-accepted].)
 
 Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/popl2015-papers.svg)](https://travis-ci.org/yallop/popl2015-papers)
 
+[popl2013]: https://github.com/23Skidoo/popl13-papers-links
 [popl2014]: https://github.com/gasche/popl2014-papers
 [icfp12]: https://github.com/technogeeky/icfp12-paper-links
 [icfp13]: https://github.com/gasche/icfp2013-papers
