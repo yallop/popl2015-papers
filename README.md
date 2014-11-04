@@ -173,7 +173,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Damien Pous
 
 * **Succinct Representation of Concurrent Trace Sets**  
-  (no preprint found)  
+  ([paper](http://pub.ist.ac.at/~rsamanta/succtraceset.pdf))  
   by Ashutosh Gupta, Thomas A. Henzinger, Arjun Radhakrishna, Roopsha Samanta and Thorsten Tarrach
 
 * **Predicting Program Properties from Big Code**  
