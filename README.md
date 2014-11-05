@@ -79,6 +79,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Krishnendu Chatterjee, Prateesh Goyal, Rasmus Ibsen-Jensen and Andreas Pavlogiannis
 
 * **Iris: Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning**  
+  ([paper](http://www.mpi-sws.org/~dreyer/papers/iris/paper.pdf))  
   by Ralf Jung, David Swasey, Filip Sieczkowski, Kasper Svendsen, Aaron Turon, Lars Birkedal and Derek Dreyer
 
 * **DReX: A Declarative Language for Efficiently Computable Regular String Transformations**  
