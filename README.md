@@ -178,7 +178,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Ashutosh Gupta, Thomas A. Henzinger, Arjun Radhakrishna, Roopsha Samanta and Thorsten Tarrach
 
 * **Predicting Program Properties from Big Code**  
-  (no preprint found)  
+  ([paper](http://www.srl.inf.ethz.ch/papers/jsnice15.pdf) | [site](http://www.srl.inf.ethz.ch/jsnice.php) | [tool](http://jsnice.org/))  
   by Veselin Raychev, Martin Vechev and Andreas Krause
 
 * **On Characterizing the Data Access Complexity of Programs**  
