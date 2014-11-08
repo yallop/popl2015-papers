@@ -163,6 +163,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Adam Chlipala
 
 * **Differential Privacy: Now it's Getting Personal**  
+  ([paper](http://www.cse.chalmers.se/~hamide/popl-2015.pdf) | [site](http://www.cse.chalmers.se/~hamide/))  
   by Hamid Ebadi, David Sands and Gerardo Schneider
 
 * **Fiat: Deductive Synthesis of Abstract Data Types in a Proof Assistant**  
