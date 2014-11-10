@@ -71,6 +71,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Kazunori Tobisawa
 
 * **Specification Inference Using Context-Free Language Reachability**  
+  ([paper](http://cs.stanford.edu/people/saswat/research/popl15.pdf))
   by Osbert Bastani, Saswat Anand, Alex Aiken and Osbert Bastani
 
 * **Runtime enforcement of security policies on black box reactive programs**  
