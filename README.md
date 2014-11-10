@@ -97,6 +97,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Karl Crary and Michael Sullivan
 
 * **Compositional CompCert**  
+  ([paper](https://www.cs.princeton.edu/~appel/papers/compcomp.pdf))  
   by Gordon Stewart, Lennart Beringer, Santiago Cuellar and Andrew W. Appel
 
 * **Abstract Symbolic Automata**  
