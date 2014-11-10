@@ -52,7 +52,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Aseem Rastogi, Nikhil Swamy, Cedric Fournet, Gavin Bierman and Panagiotis Vekris
 
 * **Sound Modular Verification of C Code Executing in an Unverified Context**  
-  ([paper](http://www.advent-project.eu/pubs/unverified-context-popl15.pdf))
+  ([paper](http://www.advent-project.eu/pubs/unverified-context-popl15.pdf))  
   by Pieter Agten, Bart Jacobs and Frank Piessens
 
 * **Program Boosting: Program Synthesis via Crowd-Sourcing**  
