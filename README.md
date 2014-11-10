@@ -64,7 +64,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Vilhelm Sjöberg and Stephanie Weirich
 
 * **Deep Specifications and Certified Abstraction Layers**  
-  (no preprint found)  
+  ([paper](http://flint.cs.yale.edu/flint/publications/dscal.pdf) | [tech report](http://flint.cs.yale.edu/flint/publications/dscal-tr.pdf) | [site](http://flint.cs.yale.edu/flint/publications/dscal.html))  
   by Ronghui Gu, Jeremie Koenig, Tahina Ramananandro, Zhong Shao, Newman Wu, Shu-chun Weng, Haozhong Zhang and Yu Guo
 
 * **A Meta Lambda Calculus with Cross-Level Computation**  
