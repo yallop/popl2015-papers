@@ -102,6 +102,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Gordon Stewart, Lennart Beringer, Santiago Cuellar and Andrew W. Appel
 
 * **Abstract Symbolic Automata**  
+  ([draft paper](http://profs.sci.univr.it/~giaco/download/ASFA.pdf))  
   by Mila Dalla Preda, Roberto Giacobazzi, Arun Lakhotia and Isabella Mastroeni
 
 * **Analyzing Program Analyses**  
