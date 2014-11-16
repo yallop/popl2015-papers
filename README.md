@@ -159,11 +159,11 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Ahmed Bouajjani, Michael Emmi, Constantin Enea and Jad Hamza
 
 * **From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification**  
-  ([site](http://adam.chlipala.net/papers/BedrockPOPL15/))  
+  ([paper](http://adam.chlipala.net/papers/BedrockPOPL15/))
   by Adam Chlipala
 
 * **Ur/Web: A Simple Model for Programming the Web**  
-  ([draft paper](http://css.csail.mit.edu/6.858/2014/readings/urweb.pdf) | [site](http://adam.chlipala.net/papers/UrWebPOPL15/))  
+  ([paper](http://adam.chlipala.net/papers/UrWebPOPL15/))
   by Adam Chlipala
 
 * **Differential Privacy: Now it's Getting Personal**  
@@ -171,7 +171,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Hamid Ebadi, David Sands and Gerardo Schneider
 
 * **Fiat: Deductive Synthesis of Abstract Data Types in a Proof Assistant**  
-  ([draft paper](http://people.csail.mit.edu/bendy/Fiat/Fiat.pdf))  
+  ([paper](http://adam.chlipala.net/papers/FiatPOPL15/))
   by Benjamin Delaware, Clément Pit-Claudel, Jason Gross and Adam Chlipala
 
 * **Symbolic Algorithms for Language Equivalence and Kleene Algebra with Tests**  
