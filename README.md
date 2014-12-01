@@ -116,6 +116,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Ralf Hinze, Nicolas Wu and Jeremy Gibbons
 
 * **Decentralizing SDN Policies**  
+  ([paper](http://people.cs.umass.edu/~immerman/pub/SDN_POPL2015.pdf))  
   by Oded Padon, Neil Immerman, Aleksandr Karbyshev, Ori Lahav, Mooly Sagiv and Sharon Shoham
 
 * **Polymorphic Functions with Set-Theoretic Types. Part 2: Local Type Inference and Type Reconstruction**  
