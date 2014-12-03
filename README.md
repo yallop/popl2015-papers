@@ -191,7 +191,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Veselin Raychev, Martin Vechev and Andreas Krause
 
 * **On Characterizing the Data Access Complexity of Programs**  
-  (no preprint found)  
+  ([arxiv](http://arxiv.org/abs/1411.2286))  
   by Venmugil Elango, Fabrice Rastello, Louis-Noel Pouchet, J. Ramanujam and P. Sadayappan
 
 * **A Coalgebraic Decision Procedure for NetKAT**  
