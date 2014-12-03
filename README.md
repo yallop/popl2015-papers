@@ -156,8 +156,8 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
 * **Probabilistic Termination**  
   by Luis Maria Ferrer Fioriti and Holger Hermanns
 
-* **Tractable Refinement Checking for Concurrent Objects**
-  ([paper](http://www.liafa.univ-paris-diderot.fr/~cenea/popl2015.pdf))
+* **Tractable Refinement Checking for Concurrent Objects**  
+  ([paper](http://www.liafa.univ-paris-diderot.fr/~cenea/popl2015.pdf))  
   by Ahmed Bouajjani, Michael Emmi, Constantin Enea and Jad Hamza
 
 * **From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification**  
