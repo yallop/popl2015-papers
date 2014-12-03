@@ -127,7 +127,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Ronald Garcia and Matteo Cimini
 
 * **Full Abstraction for Signal Flow Graphs**  
-  ([academia](https://www.academia.edu/8980937/Full_Abstraction_for_Signal_Flow_Graphs))
+  ([academia](https://www.academia.edu/8980937/Full_Abstraction_for_Signal_Flow_Graphs))  
   by Filippo Bonchi, Pawel Sobocinski and Fabio Zanasi
 
 * **Dependent Information Flow Types**  
