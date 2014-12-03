@@ -197,7 +197,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Nate Foster, Dexter Kozen, Matthew Milano, Alexandra Silva and Laure Thompson
 
 * **Proof Spaces for Unbounded Parallelism**  
-  (no preprint found)  
+  ([paper](http://www.cs.toronto.edu/~zkincaid/pub/popl15.pdf))  
   by Azadeh Farzan, Zachary Kincaid and Andreas Podelski
 
 * **The Essence of Hygiene**  
