@@ -93,6 +93,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
 
 * **Higher Inductive Types as Homotopy-Initial Algebras**  
   by Kristina Sojakova
+  ([arxiv](http://arxiv.org/abs/1402.0761))
 
 * **A Calculus for Relaxed Memory**  
   by Karl Crary and Michael Sullivan
