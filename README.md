@@ -79,6 +79,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
 
 * **Faster Algorithms for Algebraic Path Properties in RSMs with Constant Treewidth**  
   by Krishnendu Chatterjee, Prateesh Goyal, Rasmus Ibsen-Jensen and Andreas Pavlogiannis
+  ([arxiv](http://arxiv.org/abs/1410.7724))
 
 * **Iris: Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning**  
   ([paper](http://www.mpi-sws.org/~dreyer/papers/iris/paper.pdf))  
