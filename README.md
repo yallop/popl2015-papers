@@ -142,6 +142,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
 
 * **Summary-Based Context-Sensitive Data-Dependence Analysis in Presence of Callbacks**  
   by Hao Tang, Xiaoyin Wang, Lingming Zhang, Bing Xie, Lu Zhang and Hong Mei
+  ([paper](http://sei.pku.edu.cn/~zhanglu/Download/POPL15.pdf))
 
 * **Leveraging Weighted Automata to Compositional Reasoning of Probabilistic Programs**  
   by Fei He, Xiaowei Gao, Bow-Yaw Wang and Lijun Zhang
