@@ -90,7 +90,6 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Rajeev Alur, Loris D'Antoni and Mukund Raghothaman
 
 * **K-Java: A Complete Semantics of Java**  
-  ([paper](http://fsl.cs.illinois.edu/FSL/papers/2015/bogdanas-rosu-2015-popl/bogdanas-rosu-2015-popl-public.pdf))  
   by Denis Bogdanas, Dorel Lucanu and Grigore Rosu
 
 * **Higher Inductive Types as Homotopy-Initial Algebras**  
