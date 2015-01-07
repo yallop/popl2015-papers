@@ -26,6 +26,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Julien Lange, Emilio Tuosto and Nobuko Yoshida
 
 * **Equations, contractions, and unique solutions**  
+  ([paper](https://hal.archives-ouvertes.fr/hal-01089205/file/main.pdf))  
   by Davide Sangiorgi
 
 * **Formal verification of a C static analyzer**  
