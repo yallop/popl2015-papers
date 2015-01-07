@@ -75,6 +75,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Osbert Bastani, Saswat Anand, Alex Aiken and Osbert Bastani
 
 * **Runtime enforcement of security policies on black box reactive programs**  
+  ([paper](https://lirias.kuleuven.be/bitstream/123456789/474821/1/popl070-ngo.pdf))  
   by Minh Ngo, Fabio Massacci, Dimiter Milushev and Frank Piessens
 
 * **Faster Algorithms for Algebraic Path Properties in RSMs with Constant Treewidth**  
