@@ -152,6 +152,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Fei He, Xiaowei Gao, Bow-Yaw Wang and Lijun Zhang
 
 * **Algebraic effects linearity and quantum programming languages**  
+  ([paper](http://www.cs.ru.nl/~sstaton/papers/popl2015.pdf))  
   by Sam Staton
 
 * **Higher-Order Approximate Relational Refinement Types for Mechanism Design and Differential Privacy**  
