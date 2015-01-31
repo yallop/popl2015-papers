@@ -114,6 +114,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Roberto Giacobazzi, Francesco Logozzo and Francesco Ranzato
 
 * **Self-Representation in Girard's System U**  
+  ([paper](http://compilers.cs.ucla.edu/popl15/popl15-full.pdf))  
   by Matt Brown and Jens Palsberg
 
 * **Conjugate Hylomorphisms: The Mother of All Structured Recursion Schemes**  
