@@ -57,7 +57,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Pieter Agten, Bart Jacobs and Frank Piessens
 
 * **Program Boosting: Program Synthesis via Crowd-Sourcing**  
-  ([paper](http://www.cis.upenn.edu/~lorisdan/papers/popl15crowd.pdf))  
+  ([paper](http://research.microsoft.com/en-us/um/people/livshits/papers/pdf/popl15a.pdf))  
   by Robert A Cochran, Loris D'Antoni, Benjamin Livshits, David Molnar and Margus Veanes
 
 * **Programming up to Congruence**  
