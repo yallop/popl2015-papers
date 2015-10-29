@@ -34,7 +34,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Jacques-Henri Jourdan, Vincent Laporte, Sandrine Blazy, Xavier Leroy and David Pichardie
 
 * **Space-Efficient Manifest Contracts**  
-  ([paper](http://www.cs.princeton.edu/~mg19/papers/popl2015_space.pdf) | [tech report](http://arxiv.org/abs/1410.2813))  
+  ([paper](http://www.cs.pomona.edu/~michael/papers/popl2015_space.pdf) | [tech report](http://arxiv.org/abs/1410.2813))  
   by Michael Greenberg
 
 * **Quantitative Interprocedural Analysis**  
@@ -57,7 +57,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Pieter Agten, Bart Jacobs and Frank Piessens
 
 * **Program Boosting: Program Synthesis via Crowd-Sourcing**  
-  ([paper](http://www.cis.upenn.edu/~lorisdan/papers/popl15crowd.pdf))  
+  ([paper](http://research.microsoft.com/en-us/um/people/livshits/papers/pdf/popl15a.pdf))  
   by Robert A Cochran, Loris D'Antoni, Benjamin Livshits, David Molnar and Margus Veanes
 
 * **Programming up to Congruence**  
