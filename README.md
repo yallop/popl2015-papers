@@ -138,7 +138,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Filippo Bonchi, Pawel Sobocinski and Fabio Zanasi
 
 * **Dependent Information Flow Types**  
-  ([tech report](http://ctp.di.fct.unl.pt/~luisal/resources/TR-DIFT.pdf))  
+  ([paper](http://ctp.di.fct.unl.pt/~luisal/resources/popl15-paper187.pdf))  
   by Luísa Lourenço and Luís Caires
 
 * **Common compiler optimisations are invalid in the C11 memory model and what we can do about it**  
