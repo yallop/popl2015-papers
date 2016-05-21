@@ -101,7 +101,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
   by Kristina Sojakova
 
 * **A Calculus for Relaxed Memory**  
- （[paper](https://www.cs.cmu.edu/~crary/papers/2015/rmc.pdf))
+ （[paper](https://www.cs.cmu.edu/~crary/papers/2015/rmc.pdf))  
   by Karl Crary and Michael Sullivan
 
 * **Compositional CompCert**  
